@@ -1,0 +1,13 @@
+Warning sign	Example
+Urgency	"Your account will be blocked immediately!"
+Threats	"Your account will be permanently suspended."
+Suspicious links	"Click here to verify your account."
+Password requests	"Send us your password."
+Financial manipulation	"Transfer money urgently."
+Prize scams	"Congratulations! You have won a prize."
+Impersonation	"I am your bank manager. Send your details."
+
+The program will classify messages as:
+- LOW RISK
+- MEDIUM RISK
+- HIGH RISK
